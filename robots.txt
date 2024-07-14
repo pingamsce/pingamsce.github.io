@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pingamsce.github.io/sitemap.html.gz
+Sitemap: https://pingamsce.github.io/app/sitemap.html.gz
+Sitemap: https://pingamsce.github.io/assets/sitemap.html.gz
+Sitemap: https://pingamsce.github.io/css/sitemap.html.gz
+Sitemap: https://pingamsce.github.io/includes/sitemap.html.gz
+Sitemap: https://pingamsce.github.io/item/sitemap.html.gz
+Sitemap: https://pingamsce.github.io/src/sitemap.html.gz
